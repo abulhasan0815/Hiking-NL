@@ -34,4 +34,4 @@ Hiking-NL is a digital platform dedicated to showcasing the best hiking trails i
 - **GoRouter**
 - **Hive and Riverpod**
 - **Bottom Navigation Bar**
-- **Version Control**: Git, GitHub
+- **Version Control: Git, GitHub**
