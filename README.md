@@ -37,11 +37,12 @@ Hiking-NL is a digital platform dedicated to showcasing the best hiking trails i
 - **Version Control: Git, GitHub**
 
 ## 
-
+<p align="center">
 <span align="center">
-  <img src="https://github.com/abulhasan0815/Hiking-NL/blob/main/views/Home.png" alt="Home" width="250px"/>
-  <img src="https://github.com/abulhasan0815/Hiking-NL/blob/main/views/Hikes.png" alt="Hikes" width="250px"/>
+  <img src="https://github.com/abulhasan0815/Hiking-NL/blob/main/views/Home.png" alt="Home" width="260px"/>
+  <img src="https://github.com/abulhasan0815/Hiking-NL/blob/main/views/Hikes.png" alt="Hikes" width="260px"/>
   <img src="https://github.com/abulhasan0815/Hiking-NL/blob/main/views/Hike_Description.png" alt="Hikes Description" width="250px"/>
-  <img src="https://github.com/abulhasan0815/Hiking-NL/blob/main/views/Log_Details.png" alt="Log Details" width="250px"/>
-  <img src="https://github.com/abulhasan0815/Hiking-NL/blob/main/views/Logged_Hikes.png" alt="Logged Hikes" width="250px"/>
+  <img src="https://github.com/abulhasan0815/Hiking-NL/blob/main/views/Log_Details.png" alt="Log Details" width="260px"/>
+  <img src="https://github.com/abulhasan0815/Hiking-NL/blob/main/views/Logged_Hikes.png" alt="Logged Hikes" width="260px"/>
 </span>
+</p>
