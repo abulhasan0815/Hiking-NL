@@ -37,3 +37,5 @@ Hiking-NL is a digital platform dedicated to showcasing the best hiking trails i
 - **Version Control: Git, GitHub**
 
 ## 
+
+![Game Mode](views/ "Game Mode")
