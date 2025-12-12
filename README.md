@@ -35,3 +35,5 @@ Hiking-NL is a digital platform dedicated to showcasing the best hiking trails i
 - **Hive and Riverpod**
 - **Bottom Navigation Bar**
 - **Version Control: Git, GitHub**
+
+## 
